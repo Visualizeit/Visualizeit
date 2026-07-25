@@ -1,14 +1,14 @@
 # Visualizeit
 
-**Building open-source tools and SKILLs for real-world AI workflows.**
+**Building open-source tools and Agent Skills for real-world AI workflows.**
 
-构建面向真实工作流的开源 AI 工具与 SKILL。
+构建面向真实工作流的开源 AI 工具与 Agent Skills。
 
 I work across AI agents, developer experience, and product interfaces. I care about turning practical workflows into open-source tools that are clear, dependable, and pleasant to use.
 
 ## Current focus
 
-- AI agent tools and SKILLs for practical workflows
+- AI agent tools and Agent Skills for practical workflows
 - AI-native editors, content workflows, and collaboration
 - Developer tooling and frontend infrastructure
 - Product-focused open source
