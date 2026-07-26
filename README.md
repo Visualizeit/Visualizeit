@@ -1,23 +1,39 @@
 # Visualizeit
 
-**Building open-source tools and Agent Skills for real-world AI workflows.**
+**Building open-source Agent Skills and developer tools for real-world AI workflows.**
 
-构建面向真实工作流的开源 AI 工具与 Agent Skills。
+构建面向真实工作流的开源 Agent Skills 与开发者工具。
 
-I work across AI agents, developer experience, and product interfaces. I care about turning practical workflows into open-source tools that are clear, dependable, and pleasant to use.
+I build at the intersection of AI agents, developer experience, and product interfaces. I care about turning practical workflows into open-source tools that are clear, dependable, and pleasant to use.
+
+## Selected work
+
+### [Illustrator](https://github.com/Visualizeit/illustrator)
+
+<a href="https://github.com/Visualizeit/illustrator">
+  <img
+    src="https://raw.githubusercontent.com/Visualizeit/illustrator/main/skills/illustrator/examples/render-specimen/preview.png"
+    alt="Illustrator — a browserless Agent Skill for locally rendered visuals"
+    width="820"
+  />
+</a>
+
+**Designed images from a regular code-capable LLM—no image-generation model required.**
+
+A lightweight, browserless Agent Skill that turns natural-language direction, content, code, and supplied images into locally rendered visuals.
+
+`Agent Skill` · `Local rendering` · `Browserless` · `Apache-2.0`
+
+[Install](https://github.com/Visualizeit/illustrator#install) ·
+[Examples](https://github.com/Visualizeit/illustrator#examples) ·
+[简体中文](https://github.com/Visualizeit/illustrator/blob/main/README.zh-CN.md)
 
 ## Current focus
 
-- AI agent tools and Agent Skills for practical workflows
+- Agent Skills for practical content and development workflows
+- Programmatic design and local rendering
 - AI-native editors, content workflows, and collaboration
 - Developer tooling and frontend infrastructure
-- Product-focused open source
-
-<!--
-## Selected work
-
-Selected projects will be added here later.
--->
 
 ## Selected open-source contributions
 
