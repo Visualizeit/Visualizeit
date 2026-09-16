@@ -26,9 +26,7 @@
 
 ## 开源贡献
 
-- [Mantine](https://github.com/mantinedev/mantine/pull/8419) — Added missing `MenuSub` compound-component exports for use in React Server Components.
-- [oRPC](https://github.com/middleapi/orpc/pull/1189) — Simplified the TanStack Start integration documentation with a unified `ANY` handler.
-- [Ultracite](https://github.com/haydenbleasel/ultracite/pull/710) — Fixed Oxlint filename rules for TanStack route files and added regression tests.
+持续参与开源生态，向 [Mantine](https://github.com/mantinedev/mantine/pull/8419) · [oRPC](https://github.com/middleapi/orpc/pull/1189) · [Ultracite](https://github.com/haydenbleasel/ultracite/pull/710) 等项目提交过修复与改进。
 
 ## 内容分享
 
