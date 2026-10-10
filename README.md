@@ -48,6 +48,6 @@
 
 ## 联系方式
 
-我正在寻找 AI Agent 全栈开发相关的工作机会，也欢迎开源协作与项目交流。
+欢迎开源协作与项目交流。
 
 邮箱：[visualizeit@foxmail.com](mailto:visualizeit@foxmail.com)
